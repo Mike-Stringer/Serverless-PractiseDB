@@ -5,7 +5,7 @@ Serverless SQLite3 DB -  using SQL, POWER BI
 ## Notes
 
 - Using SQLite console, SQLite Studio, POWER BI
-- No keys in schema, utilise POWER BI UI to pull together relation (can also easily do this is SQLite Studio
+- No keys in schema, utilise POWER BI UI to pull together relation (can also do this is SQLite Studio)
 - Compare figures of metric from POWER BI using query results
 - Using python, R to perform regression, fitting, forecasting, compare to UBA.
 - Translate data analysis to scikit-learn or tensorflow (probably not the right tool to solve the problems, just for training)
