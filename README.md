@@ -19,7 +19,7 @@ Serverless SQLite3 DB -  using SQL, POWER BI
 - [Time series analysis of buy/sell of users around campaigns for targeted countries](Registration_Count.sql)
 - [Time series analysis of newly registered users "](Registration_Retention.sql)
 - [Buy/sell traffic of newly registered users "](Registration_Count.sql)
-Registration_Count.sql
+
 ## Data Analysis
 
 Establish problem and useful relative data
