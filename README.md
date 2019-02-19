@@ -7,6 +7,8 @@ Serverless SQLite3 DB -  using SQL, POWER BI
 - Using SQLite console, SQLite Studio, POWER BI
 - No keys in schema, utilise POWER BI UI to pull together relation (can also do this is SQLite Studio)
 - Compare figures of metric from POWER BI using query results
+- An ideal analysis would involve comparing forecast (determined from data before campaign) to data (after campaign)
+- Complexity goes up once you start dealing with weekly, seasonal, quarterly, year-on-year variations. E.G weekdays vs weekends, if a     campaign starts on a Monday /vs a Friday, National holidays, academic years etc etc...
 - Using python, R to perform regression, fitting, forecasting, compare to UBA.
 - Translate data analysis to scikit-learn or tensorflow (probably not the right tool to solve the problems, just for training)
 
