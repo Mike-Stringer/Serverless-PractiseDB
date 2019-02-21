@@ -4,7 +4,8 @@ Serverless SQLite3 DB -  using SQL, POWER BI
 
 ## Notes
 
-**finished sql - clean up the database - remove chaff -new table based on 2 main time series sqls.
+**finished sql - clean up the database - remove chaff -new table based on 2 main time series sqls. 
+Could introduce campaign = cost / time area for time series.
 
 - Using SQLite console, SQLite Studio, POWER BI
 - No keys in schema, utilise POWER BI UI to pull together relation (can also do this is SQLite Studio)
