@@ -21,9 +21,9 @@ Serverless SQLite3 DB -  using SQL, POWER BI
 - Short Moving average of buy/sell by global or country (est. background noise)
 - Large Moving average of amount spent by global or country (bn)
 - Short Moving average of account registrations by global or country (bn)
-- [Time series analysis of buy/sell of users around campaigns for targeted countries](Registration_Count.sql)
-- [Time series analysis of newly registered users "](Registration_Retention.sql)
-- [Buy/sell traffic of newly registered users "](Registration_Count.sql)
+- Time series analysis of buy/sell of users around campaigns for targeted countries
+- Time series analysis of newly registered users "(
+- Buy/sell traffic of newly registered users "
 
 ## Data Analysis
 
