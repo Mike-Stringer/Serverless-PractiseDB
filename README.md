@@ -22,7 +22,7 @@ Serverless SQLite3 DB -  using SQL, POWER BI
 - Large Moving average of amount spent by global or country (bn)
 - Short Moving average of account registrations by global or country (bn)
 - Time series analysis of buy/sell of users around campaigns for targeted countries
-- Time series analysis of newly registered users "(
+- Time series analysis of newly registered users "
 - Buy/sell traffic of newly registered users "
 
 ## Data Analysis
