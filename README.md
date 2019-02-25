@@ -4,8 +4,11 @@ Serverless SQLite3 DB -  using SQL, POWER BI
 
 ## Notes
 
-**finished sql - clean up the database - remove chaff -new table based on 2 main time series sqls. 
-Could introduce campaign = cost / time area for time series.
+Should now introduce:
+- Campaign = cost / time area for time series.
+- Bucket registration counts to cover every date over 10-30 days.
+- Dyanmic Time Warping and Casual Impact of practise data.
+- Impact profits, 1 % of increase in average transactions over the top of control data set. 
 
 - Using SQLite console, SQLite Studio, POWER BI
 - No keys in schema, utilise POWER BI UI to pull together relation (can also do this is SQLite Studio)
